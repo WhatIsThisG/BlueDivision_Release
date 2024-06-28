@@ -12,11 +12,17 @@ A fanmade blue archive game heavily inspired by 'Tom Clancy's The Division'.
 **<조작법>**
 
 WASD - 이동
+
 F - EX 스킬
+
 V - 동료 창 확인
+
 Q/E - 상호작용
+
 R - 재장전
+
 P - 플레이어 모델 변경(WIP)
+
 Space - 구르기/엄폐
 Tab - 시점 변경(좌/우)
 G - 수류탄
