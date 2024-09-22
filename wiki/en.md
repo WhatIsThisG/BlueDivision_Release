@@ -3,7 +3,7 @@
 A fanmade Blue Archive game heavily inspired by 'Tom Clancy's The Division.'
 
 ## Languages
-English | [한글](https://github.com/WhatIsThisG/BlueDivision_Release/wiki/kr.md) | [日本語](https://github.com/WhatIsThisG/BlueDivision_Release/wiki/jp.md)
+English | [한글](https://github.com/WhatIsThisG/BlueDivision_Release/edit/main/wiki/kr.md) | [日本語](https://github.com/WhatIsThisG/BlueDivision_Release/edit/main/wiki/jp.md)
 
 ## Keybinds
 
